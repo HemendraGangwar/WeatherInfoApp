@@ -1,0 +1,14 @@
+{
+  "name": "WeatherInfoApp",
+  "displayName": "WeatherInfoApp",
+  "orientation": "default",
+  "expo": {
+    "name": "WeatherInfoApp",
+    "slug": "WeatherInfoApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+
+}
